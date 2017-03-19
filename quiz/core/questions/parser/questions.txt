@@ -1,0 +1,37 @@
+{
+  "Q1": {
+    "text": "What's the capital of Italy?",
+    "difficulty": 2,
+    "answers": [
+          { "option": "A", "answer": "Riyad"},
+          { "option": "B", "answer": "Romania"},
+          { "option": "C", "answer": "Bern"},
+          { "option": "D", "answer": "Roma"}
+     ],
+     "correct": "D"
+  },
+
+  "Q2": {
+    "text": "Who dictates in Turkey?",
+    "difficulty": 1,
+    "answers": [
+          { "option": "A", "answer": "Hercules"},
+          { "option": "B", "answer": "My Puppy"},
+          { "option": "C", "answer": "Erdogan"},
+          { "option": "D", "answer": "A Piece of Wood"}
+     ],
+     "correct": "C"
+  },
+
+  "Q3": {
+    "text": "Which one was written by Balzac?",
+    "difficulty": 2,
+    "answers": [
+          { "option": "A", "answer": "50 Shades of Gray"},
+          { "option": "B", "answer": "Zadig"},
+          { "option": "C", "answer": "E.T."},
+          { "option": "D", "answer": "Zorba"}
+     ],
+     "correct": "C"
+  }
+}
